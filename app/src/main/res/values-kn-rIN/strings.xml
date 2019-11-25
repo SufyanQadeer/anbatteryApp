@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anbattery</string>
+    <string name="wait">"रुकिए! "</string>
+    <string name="youhave">"आपके पास "</string>
+    <string name="welcome_text">"स्वागत हे! इस TAB में आप अपनी एंड्रॉइड बैटरी को ऑप्टिमाइज़ कर पाएंगे। "</string>
+    <string name="welcome">"Anbattery में आपका स्वागत है! "</string>
+    <string name="temperature">"तापमान "</string>
+    <string name="task_msg">"चयनित प्रक्रिया समाप्त करें?  "</string>
+    <string name="smart_clean">"Anbattery टेक के साथ बुद्धिमान अनुकूलन "</string>
+    <string name="smart_charge_activated">"स्मार्ट लोड सक्रिय "</string>
+    <string name="remaining">"बचा हुआ समय "</string>
+    <string name="phone_settings">विकल्प</string>
+    <string name="optimize">"अनुकूलित करें! "</string>
+    <string name="need_write_seettings">"चमक, रोटेशन, आदि के बारे में परिवर्तन करने के लिए हमें कुछ अनुमति की आवश्यकता होती है। अनुमति को दबाएं और फिर अपने फोन पर बैक दबाएं "</string>
+    <string name="need_notifications_policy_permission">"आपको इस एप्लिकेशन के लिए कुछ अनुमतियां सक्षम करने की आवश्यकता है। "</string>
+    <string name="important">"जरूरी! "</string>
+    <string name="if_no_movile_data">"यदि आप DATA को डिसेबल करते हैं। "</string>
+    <string name="if_no_location_data">"अगर आप GPS को डिसेबल कर देते हैं "</string>
+    <string name="if_ariplane_mode">"यदि आप सक्रिय विमान मोड। "</string>
+    <string name="done2">"याद है! आपके पास शीर्ष पर दूसरा टैब दबाकर अधिक विकल्प हैं। समाप्त करने के लिए बाहर निकलें दबाएँ। "</string>
+    <string name="yes">"हाँ "</string>
+    <string name="when_battery_reach">"यदि स्तर बैटरी है: "</string>
+    <string name="task_assistant">"इस TAB में, आप उन प्रक्रियाओं को रोक सकते हैं जो आपको परेशान करती हैं। "</string>
+    <string name="recomendations">अनुशंसाएँ</string>
+    <string name="optimizeNow">"एनबेटी तक पहुँचने के लिए दबाएँ "</string>
+    <string name="no">नहीं</string>
+    <string name="memory_level_ok">"मेमोरी और बैटरी दक्षता का स्तर इष्टतम है। बाद में पुन: प्रयास करें "</string>
+    <string name="loading">"रुकिए! "</string>
+    <string name="like">"आपकी राय हमारे लिए महत्वपूर्ण है। क्या आप हमें Play Store पर समीक्षा करना चाहते हैं? "</string>
+    <string name="later">"बाद में "</string>
+    <string name="good">"अच्छा "</string>
+    <string name="faster_x3">"तेजी से लोड! "</string>
+    <string name="faster_x2">"तेजी से लोड! "</string>
+    <string name="exit">"बाहर जाएं "</string>
+    <string name="enabling_silent_mode">"म्यूट कर रहा है "</string>
+    <string name="enable_smart_charge">"स्मार्ट चार्ज "</string>
+    <string name="enable_airplane_mode">"सक्रिय योजना मोड "</string>
+    <string name="done">"किया हुआ! "</string>
+    <string name="device_batery_level">"स्तर की बैटरी है: "</string>
+    <string name="confirm">"क्या आप वास्तव में छोड़ना चाहते हैं? "</string>
+    <string name="clean_task">"प्रक्रिया समाप्त "</string>
+    <string name="checkBox">"बैटरी की खपत के प्रतिशत और बुद्धिमान अधिसूचना को सक्रिय करें "</string>
+    <string name="btn_cancel">"रद्द करना "</string>
+</resources>

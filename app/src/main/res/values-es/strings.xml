@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="used_mem">Usada:&#160;</string>
+    <string name="free_mem">Libre:&#160;</string>
+    <string name="total_mem">Total:&#160;</string>
+    <string name="boost_time">Tiempo:&#160;</string>
+    <string name="dialog_title">Anbattery</string>
+    <string name="btn_cleantask">Limpiar&#160;</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_kill">Mata!</string>
+    <string name="btn_cancel">Cancela</string>
+    <string name="mem">Memory:&#160;</string>
+    <string name="cache">Cache:&#160;</string>
+    <string name="btn_boost">¡Optimiza!</string>
+    <string name="task_msg">¿Finalizar el proceso seleccionado?</string>
+    <string name="exit">Salir</string>
+    <string name="confirm">¿Realmente quieres salir?</string>
+    <string name="yes">SI</string>
+    <string name="no">NO</string>
+    <string name="title_activity_notification_view">NotificationView</string>
+    <string name="customnotificationtitle">Anclener Pro</string>
+    <string name="proccesKilled">Procesos eliminados:&#160;</string>
+    <string name="MemoryCleaned">Memoria liberada:&#160;</string>
+    <string name="Cachecleaned">Caché limpiada:&#160;</string>
+    <string name="InternalMemoryInfo">Memoria interna:&#160;</string>
+    <string name="Available">Disponible:&#160;</string>
+    <string name="Used">Usada:&#160;</string>
+    <string name="status">Estado:&#160;</string>
+    <string name="memory_level_ok">El nivel de memoria y consumo es óptimo. Prueba más tarde.</string>
+    <string name="checkBox">Activar porcentaje de la batería y notificación inteligente </string>
+    <string name="wait_activate">La notificación aparecerá en breve. Por favor, sea paciente. </string>
+    <string name="wait_deactivate">La notificación desaparecerá en breve. Por favor, sea paciente. </string>
+    <string name="lastBoost">Última vez:&#160;</string>
+    <string name="aboutTime">¡Hora de optimizar!</string>
+    <string name="optimizeNow">Pulsa para acceder a Anbattery</string>
+    <string name="title_activity_notification">Notificación</string>
+
+    <string name="share_message">Limpia y optimiza tu dispositivo Android con Anbattery. Descárgalo de
+        PlayStore. https://goo.gl/QhFEIC</string>
+
+    <string name="smart_clean">Optimización inteligente con Anbattery Tech<sup><small>TM</small></sup></string>
+
+    <string name="cleaning_result">¡Limpieza finalizada!</string>
+    <string name="cache_dialog">Caché</string>
+    <string name="nav_temps">Temporales</string>
+    <string name="ram">Memoria RAM</string>
+    <string name="released_ram">RAM liberada</string>
+    <string name="what_to_clean">¿Qué deseas limpiar?</string>
+
+    <string name="welcome">¡Bienvenido a Anbattery!</string>
+    <string name="welcome_text">En esta pantalla podrás optimizar con un clic tu dispositvo y el uso de la batería.</string>
+    <string name="task_assistant">Con la esta pantalla tienes la posibilidad de parar aquellos procesos molestos que quitan rendimiento a tu Android.</string>
+    <string name="option_assistant">Con las opciones que te proponemos aquí sacarás el máximo rendimiento a tu batería.</string>
+    <string name="show_no_more">No volver a mostrar este cuadro</string>
+
+    <string name="memory">Memoria</string>
+    <string name="storage">Almacenamiento</string>
+    <string name="system">Sistema</string>
+    <string name="used">Usado:</string>
+    <string name="free">Libre:</string>
+    <string name="total">Total:</string>
+
+    <string name="options">Opciones:</string>
+    <string name="smart_notify">Activar Notificaciones Inteligentes:</string>
+    <string name="lang">Idioma</string>
+    <string name="share">Compartir</string>
+    <string name="assistant">Asistente On/Off</string>
+    <string name="assistant_on">Asistente activado</string>
+    <string name="assistant_off">Asistente desactivado</string>
+
+    <string name="ram_memory">Memoria RAM:</string>
+    <string name="internal_memory">Memoria Interna:</string>
+
+    <string name="press_to_start">Presiona \"GO!\" para iniciar la búsqueda</string>
+    <string name="press_go">Presiona \"CLEAN!\" para iniciar la limpieza</string>
+    <string name="cleaned">Presiona \"DONE!\" para salir</string>
+
+    <string name="working">Espera a que acabe el proceso de limpieza para acceder a esta opción.</string>
+
+    <string name="upgrade">ACTUALIZA A PRO</string>
+    <string name="click_here">Pulsa Aquí</string>
+    <string name="pro_url">https://goo.gl/Ppf9k7</string>
+    <string name="free_url">https://goo.gl/QhFEIC</string>
+
+    <string name="notifications_on">El notificador inteligente está activado</string>
+    <string name="notifications_off">El notificador inteligente está desactivado</string>
+
+    <string name="clean_task">Finalizar proceso</string>
+
+    <string name="like">¿Te gusta Anbattery? Agradecemos tu evaluación en Play Store.</string>
+    <string name="later">Más tarde</string>
+    <string name="temperature">Temperatura</string>
+    <string name="voltage">Voltaje</string>
+    <string name="tecnology">Tecnología</string>
+    <string name="remaining">Restante</string>
+    <string name="optimize">¡Vamos!</string>
+    <string name="wifi">WiFi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="rotation">Rotación</string>
+    <string name="mode">Modo</string>
+    <string name="bright">Brillo</string>
+    <string name="wait">Espera</string>
+    <string name="phone_settings">Ajustes del dispositivo</string>
+    <string name="enable_smart_charge">Habilitar carga inteligente</string>
+    <string name="automatic_optimization">Optimización automatica</string>
+    <string name="anbattery_disable">Anbattery desactivará</string>
+    <string name="when_battery_reach">Al llegar la bateria a:</string>
+    <string name="unknown">Desconocido</string>
+    <string name="good">Bueno</string>
+    <string name="over_voltage">Sobretensión</string>
+    <string name="overheat">Sobrecalentamiento</string>
+    <string name="cold">Fria</string>
+    <string name="smart_charge_activated">Carga inteligente activada</string>
+    <string name="automatic_optimization_activated">Optimización automatica activada</string>
+    <string name="faster_x2">Carga 2x más rápido</string>
+    <string name="recomendations">Recomendaciones</string>
+    <string name="if_no_movile_data">Si desactivas los datos móviles.</string>
+    <string name="disable_data">DESACTIVAR DATOS</string>
+    <string name="faster_x3">Carga 3x más rápido</string>
+    <string name="if_no_location_data">Si desactivas los servicios de ubicación</string>
+    <string name="disable_location">DESACTIVAR UBICACIÓN</string>
+    <string name="important">Importante!</string>
+    <string name="need_write_seettings">Se necesita permiso de escritura en ajustes para establecer el brillo de pantalla, tiempo de espera de la pantalla, rotación, perfiles de sonido. Pulsa en la parte superior el interruptor y luego dale al botón ATRÁS.</string>
+    <string name="if_ariplane_mode">Si activas el modo avión.</string>
+    <string name="enable_airplane_mode">ACTIVAR MODO AVIÓN</string>
+    <string name="accept">ACEPTAR</string>
+    <string name="gained_time">Ganado</string>
+    <string name="battery_level">Batería restante</string>
+    <string name="reducing_brightness">Reduciendo brillo</string>
+    <string name="disabling_wifi">Deshabilitando Wi-Fi</string>
+    <string name="disabling_bluetooth">Deshabilitando Bluetooth</string>
+    <string name="disabling_rotation">Deshabilitando rotación</string>
+    <string name="enabling_silent_mode">Activando modo silencio</string>
+    <string name="dead">Batería muerta</string>
+    <string name="cleaning_memory">Limpiando memoria</string>
+    <string name="unspecified_failure">Fallo no especificado</string>
+    <string name="state">Estado</string>
+    <string name="device_batery_level">La batería de tu dispositivo esta al</string>
+    <string name="need_notifications_policy_permission">A continuación tendrás que activar el permiso de notificación. Busca "Anbattery" y actívanos.</string>
+    <string name="asistant">Asistente</string>
+    <string name="indicator">Indicador</string>
+    <string name="youhave">You have</string>
+    <string name="done">¡Hecho!</string>
+    <string name="done2">¡Recuerda! Tienes más opciones pulsando la segunda pestaña en la parte superior. Presiona SALIR para finalizar.</string>
+    <string name="loading">¡Espera!</string>
+
+
+    <string-array name="battery_percent">
+        <item>5%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+    </string-array>
+
+</resources>

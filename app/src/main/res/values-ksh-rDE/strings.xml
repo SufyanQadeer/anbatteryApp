@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anbattery</string>
+    <string name="Available">"Verfügbar: "</string>
+    <string name="Cachecleaned">"Bereinigter Cache: 30 MB "</string>
+    <string name="enable_airplane_mode">"AKTIVER FLUGMODUS "</string>
+    <string name="enable_smart_charge">"Intelligente Ladung "</string>
+    <string name="enabling_silent_mode">Stummschalten</string>
+    <string name="exit">Ausgang</string>
+    <string name="faster_x2">"X2 schneller laden! "</string>
+    <string name="faster_x3">"X3 schneller laden! "</string>
+    <string name="free">Free:</string>
+    <string name="free_mem">Free: </string>
+    <string name="gained_time">Habe</string>
+    <string name="if_ariplane_mode">"Wenn Sie im Ebenenmodus arbeiten. "</string>
+    <string name="if_no_location_data">"Wenn Sie GPS deaktivieren "</string>
+    <string name="if_no_movile_data">"Wenn Sie DATA deaktivieren. "</string>
+    <string name="important">"Wichtig! "</string>
+    <string name="indicator">Indikator</string>
+    <string name="internal_memory">"Inneres Gedächtnis: "</string>
+    <string name="optimize">"Optimieren! "</string>
+    <string name="temperature">Temperatur</string>
+    <string name="welcome_text">"Herzlich willkommen! In dieser TAB können Sie Ihren Android-Akku optimieren. "</string>
+    <string name="yes">Ja</string>
+    <string name="youhave">"Du hast "</string>
+    <string name="wait">"Warten! "</string>
+    <string name="welcome">"Willkommen bei Anbattery! "</string>
+    <string name="smart_clean">"Intelligente Optimierung mit Anbattery Tech "</string>
+    <string name="smart_charge_activated">"Intelligente Last aktiviert "</string>
+    <string name="remaining">"Verbleibende Zeit "</string>
+    <string name="phone_settings">Optionen</string>
+    <string name="need_write_seettings">"Wir benötigen einige Berechtigungen, um Änderungen an Helligkeit, Rotation usw. vorzunehmen. Drücken Sie die Erlaubnis und drücken Sie dann die RÜCKSEITE auf Ihrem Telefon "</string>
+    <string name="need_notifications_policy_permission">"Sie müssen einige Berechtigungen für diese Anwendung aktivieren. "</string>
+    <string name="done2">"Merken! Sie haben mehr Optionen, indem Sie auf die zweite Registerkarte oben drücken. Drücken Sie zum Beenden EXIT. "</string>
+    <string name="when_battery_reach">"Wenn die Füllstandsbatterie "</string>
+    <string name="task_msg">"Ausgewählten Prozess beenden? "</string>
+    <string name="task_assistant">"In dieser TAB können Sie die Prozesse stoppen, die Sie stören. "</string>
+    <string name="recomendations">"Empfehlungen "</string>
+    <string name="optimizeNow">"Drücken Sie, um auf Anbattery zuzugreifen "</string>
+    <string name="no">NEIN</string>
+    <string name="memory_level_ok">"Der Speicher und die Batterieeffizienz sind optimal. Versuchen Sie es später noch einmal "</string>
+    <string name="loading">"Warten! "</string>
+    <string name="like">"Ihre Meinung ist uns wichtig. Möchten Sie uns im Play Store bewerten? "</string>
+    <string name="later">Später</string>
+    <string name="good">Gut</string>
+    <string name="done">"Erledigt! "</string>
+    <string name="device_batery_level">"Die Füllstandsbatterie ist: "</string>
+    <string name="confirm">"Möchtest du wirklich aufhören? "</string>
+    <string name="clean_task">"Prozess beenden "</string>
+    <string name="checkBox">"Aktivieren Sie den Batterieverbrauch in Prozent und die intelligente Benachrichtigung "</string>
+    <string name="btn_cancel">Stornieren</string>
+    <string name="aboutTime">"Zeit zu optimieren! "</string>
+
+</resources>

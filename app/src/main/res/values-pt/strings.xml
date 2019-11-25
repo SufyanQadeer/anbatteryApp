@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anbattery</string>
+    <string name="wait">"Esperar! "</string>
+    <string name="youhave">"Você tem "</string>
+    <string name="welcome_text">"Bem vinda! Neste TAB você será capaz de otimizar sua bateria Android. "</string>
+    <string name="welcome">"Bem-vindo ao Anbattery! "</string>
+    <string name="temperature">"Temperatura "</string>
+    <string name="task_msg">"Concluir processo selecionado? "</string>
+    <string name="smart_clean">"Otimização Inteligente com Tecnologia Anbattery "</string>
+    <string name="smart_charge_activated">"Carga inteligente ativada "</string>
+    <string name="remaining">"Tempo restante "</string>
+    <string name="phone_settings">Opções</string>
+    <string name="optimize">"Otimizar! "</string>
+    <string name="need_write_seettings">"Precisamos de algumas permissões para fazer alterações sobre brilho, rotação, etc. Pressione a permissão e pressione BACK no seu telefone "</string>
+    <string name="need_notifications_policy_permission">"Você precisa habilitar algumas permissões para este aplicativo. "</string>
+    <string name="important">"Importante! "</string>
+    <string name="if_no_movile_data">"Se você desativar o DATA. "</string>
+    <string name="if_no_location_data">"Se você desativar o GPS "</string>
+    <string name="if_ariplane_mode">"Se você estiver no modo avião ativo. "</string>
+    <string name="done2">"Lembrar! Você tem mais opções pressionando a segunda guia na parte superior. Pressione EXIT para terminar. "</string>
+    <string name="yes">SIM</string>
+    <string name="when_battery_reach">"Se a bateria de nível é: "</string>
+    <string name="task_assistant">"Nesta aba, você pode parar os processos que incomodam você. "</string>
+    <string name="recomendations">Recomendações</string>
+    <string name="optimizeNow">"Pressione para acessar Anbattery "</string>
+    <string name="no">NÃO</string>
+    <string name="memory_level_ok">"O nível de memória e eficiência da bateria é ideal. Tente mais tarde "</string>
+    <string name="loading">"Esperar! "</string>
+    <string name="like">"Sua opinião é importante para nós. Você deseja nos analisar na Play Store? "</string>
+    <string name="later">"Mais tarde "</string>
+    <string name="good">"Boa "</string>
+    <string name="faster_x3">"Carregue mais rápido! "</string>
+    <string name="faster_x2">"Carregue mais rápido! "</string>
+    <string name="exit">"Saída "</string>
+    <string name="enabling_silent_mode">Muting</string>
+    <string name="enable_smart_charge">"Carga inteligente "</string>
+    <string name="enable_airplane_mode">"MODO DE PLANO ATIVO "</string>
+    <string name="done">"Feito! "</string>
+    <string name="device_batery_level">"A bateria de nível é: "</string>
+    <string name="confirm">"Você realmente quer sair? "</string>
+    <string name="clean_task">"Fim do processo "</string>
+    <string name="checkBox">"Ative o percentual de consumo da bateria e a notificação inteligente "</string>
+    <string name="btn_cancel">Cancelar</string>
+</resources>

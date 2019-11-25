@@ -1,0 +1,162 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="app_name" translatable="false">Anbattery</string>
+
+    <string name="splash_delay" translatable="false">1500</string>
+    <string name="analytics_property_id" translatable="false">UA-50860000-12</string>
+
+
+
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="used_mem" translatable="false">Used: </string>
+    <string name="free_mem" translatable="false">Free: </string>
+    <string name="total_mem" translatable="false">Total: </string>
+    <string name="boost_time">Time: </string>
+    <string name="dialog_title" translatable="false">Anbattery</string>
+    <string name="btn_cleantask" translatable="false">Clean Tasks</string>
+    <string name="btn_ok" translatable="false">Ok</string>
+    <string name="btn_kill" translatable="false">Kill!</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="mem" translatable="false">Memory: </string>
+    <string name="cache" translatable="false">Cache: </string>
+    <string name="btn_boost">Optimize!</string>
+    <string name="task_msg">Finish selected process?</string>
+    <string name="exit">Exit</string>
+    <string name="confirm">Do you really want to quit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="title_activity_notification_view" translatable="false">NotificationView</string>
+    <string name="customnotificationtitle" translatable="false">Anbattery</string>
+    <string name="proccesKilled" translatable="false">Removed processes: 17</string>
+    <string name="MemoryCleaned" translatable="false">Released memory: 30MB</string>
+    <string name="Cachecleaned" translatable="false">Cleaned cache: 30MB</string>
+    <string name="InternalMemoryInfo" translatable="false">Inner Memory: </string>
+    <string name="Available">Available: </string>
+    <string name="Used" translatable="false">Used: </string>
+    <string name="status" translatable="false">Status: </string>
+    <string name="memory_level_ok">The level of memory and battery efficiency is optimal. Try again later</string>
+    <string name="checkBox">Activate battery consumption percentage and intelligent notification</string>
+    <string name="wait_activate" translatable="false">The notification will be activated soon. Be patient, please </string>
+    <string name="wait_deactivate" translatable="false">The notification will disappear shortly. Please, be patient!</string>
+    <string name="lastBoost" translatable="false">Last time: </string>
+    <string name="aboutTime">Time to optimize!</string>
+    <string name="optimizeNow">Press to access Anbattery</string>
+    <string name="title_activity_notification" translatable="false">NotificationActivity</string>
+    <string name="share_message" translatable="false">Clean and optimize your Android device with Anbattery. Download it on
+        PlayStore. https://goo.gl/QhFEIC</string>
+    <string name="smart_clean">"Intelligent optimization with Anbattery Tech<sup><small>TM</small></sup>     "</string>
+    <string name="cleaning_result" translatable="false">Cleaning over!</string>
+    <string name="cache_dialog" translatable="false">Cache</string>
+    <string name="nav_temps" translatable="false">Temporaries</string>
+    <string name="ram" translatable="false">RAM memory</string>
+    <string name="released_ram" translatable="false">RAM released</string>
+    <string name="what_to_clean" translatable="false">What would you like to clean?</string>
+    <string name="welcome">Welcome to Anbattery!</string>
+    <string name="welcome_text">Welcome! In this TAB you will be able to optimize your Android battery.</string>
+    <string name="task_assistant">In this TAB, you can stop those processes which bother you.</string>
+    <string name="option_assistant" translatable="false">The OPTION tab to see all possibilities of Anbattery</string>
+    <string name="show_no_more" translatable="false">Do not show this box again</string>
+    <string name="memory" translatable="false">Memory</string>
+    <string name="storage" translatable="false">Storage</string>
+    <string name="system" translatable="false">System</string>
+    <string name="used" translatable="false">Used:</string>
+    <string name="free" translatable="false">Free:</string>
+    <string name="total" translatable="false">Total:</string>
+    <string name="options" translatable="false">Options:</string>
+    <string name="smart_notify" translatable="false">Activate Intelligent Notifications:</string>
+    <string name="lang" translatable="false">Language</string>
+    <string name="share" translatable="false">Share</string>
+
+    <string name="asistant">Assistant</string>
+    <string name="indicator" translatable="false">Indicator</string>
+
+    <string name="assistant">Assistant On/Off</string>
+    <string name="assistant_on">Activated Assistant</string>
+    <string name="assistant_off">Deactivated Assistant </string>
+    <string name="ram_memory" translatable="false">RAM memory:</string>
+    <string name="internal_memory" translatable="false">Inner memory:</string>
+    <string name="press_to_start" translatable="false">Press \"GO!\" to start search</string>
+    <string name="press_go" translatable="false">Press \"CLEAN!\" to start cleaning</string>
+    <string name="cleaned">Press \"DONE!\" to quit</string>
+    <string name="working" translatable="false">Wait till the cleaning process finishes to access this option</string>
+    <string name="upgrade" translatable="false">UPGRADE TO PRO</string>
+    <string name="click_here" translatable="false">Press here</string>
+    <string name="pro_url" translatable="false">https://goo.gl/Ppf9k7</string>
+    <string name="free_url">https://goo.gl/QhFEIC</string>
+    <string name="notifications_on" translatable="false">The intelligent notifier is activated</string>
+    <string name="notifications_off" translatable="false">The intelligent notifier is deactivated</string>
+    <string name="clean_task">End process</string>
+    <string name="like">Your opinion is important for us. Do you wish to review us on Play Store?</string>
+    <string name="later">Later</string>
+    <string name="temperature">Temperature</string>
+    <string name="voltage" translatable="false">Voltage</string>
+    <string name="tecnology" translatable="false">Tecnology</string>
+    <string name="remaining" translatable="false">Remaining time</string>
+    <string name="optimize">Optimize!</string>
+    <string name="wifi" translatable="false">WiFi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="rotation" translatable="false">Rotation</string>
+    <string name="mode" translatable="false">Mode</string>
+    <string name="bright">Brightness</string>
+    <string name="wait">Wait!</string>
+    <string name="phone_settings">Options</string>
+    <string name="enable_smart_charge">Smart charge</string>
+    <string name="automatic_optimization">Automatic optimization</string>
+    <string name="anbattery_disable">Anbattery will disable</string>
+    <string name="when_battery_reach">If the level battery is:</string>
+    <string name="unknown" translatable="false">Unknown</string>
+    <string name="good">Good</string>
+    <string name="over_voltage" translatable="false">Overtension</string>
+    <string name="unspecified_failure" translatable="false">Unknown fail</string>
+    <string name="overheat" translatable="false">Overheating</string>
+    <string name="dead" translatable="false">Battery dead</string>
+    <string name="cold" translatable="false">Cold</string>
+    <string name="smart_charge_activated">Smart load activated</string>
+    <string name="automatic_optimization_activated">Optimización automatica activada</string>
+    <string name="faster_x2">Load x2 faster!</string>
+    <string name="recomendations">Recomendations</string>
+    <string name="if_no_movile_data">If you disable DATA.</string>
+    <string name="disable_data" translatable="false">Disable DATA</string>
+    <string name="faster_x3">Load 3x faster!</string>
+    <string name="if_no_location_data">If you disable GPS</string>
+    <string name="disable_location" translatable="false">Disable GPS</string>
+    <string name="important">Important!</string>
+    <string name="need_write_seettings">We need some permisisons to make changes about brightness, rotation, etc. Press the permission and then press BACK on your phone</string>
+    <string name="if_ariplane_mode">If you active plane mode.</string>
+    <string name="enable_airplane_mode">ACTIVE PLANE MODE</string>
+    <string name="accept">Accept</string>
+    <string name="state">State</string>
+    <string name="gained_time">Got</string>
+    <string name="battery_level">Battery level</string>
+    <string name="cleaning_memory" translatable="false">Cleaning memory</string>
+    <string name="reducing_brightness" translatable="false">Reducing brightness</string>
+    <string name="disabling_wifi" translatable="false">WI-FI</string>
+    <string name="disabling_bluetooth" translatable="false">Disabling Bluetooth</string>
+    <string name="disabling_rotation" translatable="false">Disabling rotation</string>
+    <string name="enabling_silent_mode">Muting</string>
+    <string name="device_batery_level">The level battery is:</string>
+    <string name="need_notifications_policy_permission">You need to enable some permissions for this application.</string>
+    <string name="done">Done!</string>
+    <string name="done2">"Remember! You have more options by pressing the second tab at the top. Press EXIT to finish. "</string>
+
+    <string name="loading">Wait!</string>
+    <string name="youhave">You have</string>
+</resources>
